@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    font-size: 15px;
+}
+.change-color{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 15px;
+    border-radius: 20px;
+    
+}
+.side{
+ display: flex;
+}
+.half{
+    width: 50%;
+   margin-top: 10%;
+    }
+#margin{
+    margin-top: 50%;
+}
+#para{
+    margin-bottom: 25%;
+}
+half img
+{
+    width: 60%;
+}
+.another-side{
+    margin-top: 10%;
+    display: flex;
+    background-image: url("images/shapes/7.png");
+   
+    
+ }
+ .another-side img
+ {
+     width: 80%;
+     margin-bottom: 10%;
+ }
+ .half2 img{
+     width: 80%;
+ }
+ .halft{
+    width: 50%;
+    padding-left: 10%;
+    margin-top:10%;
+}
+.halft img
+{
+    width: 100%;
+
+}
+.paragraph
+{ margin-top:10%;
+    text-align: center;
+    }
+
+.half3
+ {
+    border:7px solid;
+    width: 80% ;
+    border-image: linear-gradient(white,gray);
+    border-image-slice:30%;
+
+    margin-left:5%;
+    margin-right:5%;
+    margin-top: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow:10px 10px 10px gray;
+    border:10px black;
+    
+    
+}
+  .half3 img
+    {
+        width: 90%;
+        margin-top:5%;
+        margin-left: 5%;
+        margin-right: 5%;
+    
+    }
+.half4
+{
+    display: flex;
+}
+#sp
+{
+    margin-top:10%;
+    margin-left:20%;
+    margin-right:20%;
+}
